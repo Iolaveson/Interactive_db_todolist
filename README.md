@@ -4,14 +4,14 @@
 
 I have created a simple interactive database that showcases how we can implement SQL queries to store and retrieve data easily.
 
-[Software Demo Video](https://youtu.be/uOAAwBOmHSk)
+[Software Demo Video](https://youtu.be/QaS4NU4Hjqs)
 
 # Development Environment
 
-VScode
-Python 3.10
-SQLite3
-Windows terminal
+VScode <br />
+Python 3.10 <br />
+SQLite3 <br />
+Windows terminal <br />
 
 # Useful Websites
 
